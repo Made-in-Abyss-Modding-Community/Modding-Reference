@@ -42,3 +42,6 @@
 * [Tutorials](tutorials.md)
 * [Other Documentation](other-documentation/README.md)
   * [PAK load order](other-documentation/pak-load-order.md)
+* [Mod Directory](mod-directory/README.md)
+  * [Watta's Survival Hatchet](mod-directory/wattas-survival-hatchet.md)
+  * [Beardmo's Lore Friendly Skill Names and Descriptions](mod-directory/beardmos-lore-friendly-skill-names-and-descriptions.md)
