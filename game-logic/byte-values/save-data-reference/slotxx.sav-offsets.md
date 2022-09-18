@@ -1,0 +1,2 @@
+# slotXX.sav Offsets
+
