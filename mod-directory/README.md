@@ -13,4 +13,5 @@ For more information, see [wattas-survival-hatchet.md](wattas-survival-hatchet.m
 
 ### Beardmo's Lore Friendly Skill Names and Descriptions
 
-Fixes JAP -> ENG translation errors.
+Fixes JAP -> ENG translation errors.\
+For more information, see [beardmos-lore-friendly-skill-names-and-descriptions.md](beardmos-lore-friendly-skill-names-and-descriptions.md "mention")
