@@ -20,4 +20,4 @@ This mod fixes JAP ➟ ENG translation errors within the skill tree and provides
 
 #### Known Bugs
 
-* Breaks [wattas-survival-hatchet.md](wattas-survival-hatchet.md "mention")
+* Breaks [wattas-survival-hatchet.md](wattas-survival-hatchet.md "mention") - use [beardmos-skill-rehaul-+-wattas-survival-hatchet.md](beardmos-skill-rehaul-+-wattas-survival-hatchet.md "mention") instead.&#x20;

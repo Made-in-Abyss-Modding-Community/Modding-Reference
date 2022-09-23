@@ -20,7 +20,7 @@ Tired of softlocking yourself? Not anymore! The Survival Hatchet is a replacemen
 
 #### Known Bugs
 
-* Breaks [beardmos-lore-friendly-skill-names-and-descriptions.md](beardmos-lore-friendly-skill-names-and-descriptions.md "mention")
+* Breaks [beardmos-lore-friendly-skill-names-and-descriptions.md](beardmos-lore-friendly-skill-names-and-descriptions.md "mention") - use [beardmos-skill-rehaul-+-wattas-survival-hatchet.md](beardmos-skill-rehaul-+-wattas-survival-hatchet.md "mention") instead.&#x20;
 
 #### Screenshots
 
