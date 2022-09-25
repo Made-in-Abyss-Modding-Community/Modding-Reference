@@ -2,7 +2,7 @@
 description: Increases weapons durability based on their rank.
 ---
 
-# Myha's Weapons Durability Rebalance
+# Myha's Weapons Durability Rebalance 
 
 Are you frustrated that your new hatchet made of rare abyss material breaks as fast as your pocket knife for scout camp ?
 Afraid of using your shiny pickaxe crafted with mystical deep abyss relics because it will fall apart before you reach the 4rth layer ?
