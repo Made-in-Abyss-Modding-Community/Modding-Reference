@@ -56,6 +56,12 @@ For more information, see [jaajs-music-replacement-v4.1.md](jaajs-music-replacem
 Replaces MIA:BFSD music with the OST from the anime.\
 For more information, see [beeps-music-replacement-v0.9.1.md](beeps-music-replacement-v0.9.1.md "mention")
 
+### VETA (DAHONG)'s Decreased Item Weight v1.2
+
+다람쥐 탐굴가들을 위한 무기, 의상, 기타 아이템 무게 감소 모드 입니다.\
+This is a weight reduction mod for weapons, clothing, and other items\
+For more information, see [veta-dahong-s-decreased-item-weight-v1.2.md](veta-dahong-s-decreased-item-weight-v1.2.md "mention")
+
 ### Veta's Decreased Item Weights
 
 Mod that reduces the weight for several items.\
