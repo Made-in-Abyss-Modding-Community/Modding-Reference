@@ -65,4 +65,4 @@ For more information, see [veta-dahong-s-decreased-item-weight-v1.2.md](veta-dah
 ### Veta's Decreased Item Weights
 
 Mod that reduces the weight for several items.\
-For more information, see [vetas-decreased-item-weights.md](vetas-decreased-item-weights.md "mention")
+For more information, see [veta-dahong-s-decreased-item-weight-v1.2.md](veta-dahong-s-decreased-item-weight-v1.2.md "mention")
