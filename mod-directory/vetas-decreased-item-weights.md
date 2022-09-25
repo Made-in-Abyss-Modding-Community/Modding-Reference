@@ -20,4 +20,4 @@ Full list of changes can be found [here](https://game-4.tistory.com/20)
 * You're done!
 
 #### Download Link
-https://blog.kakaocdn.net/dn/cO731h/btrMVcGBTEL/sjJDvp04yHvQ56kxHZSfF0/MadeInAbyss-BSFD-WindowsNoEditor_1_P.pak?attach=1&knm=tfile.pak
+{% embed url="https://blog.kakaocdn.net/dn/cO731h/btrMVcGBTEL/sjJDvp04yHvQ56kxHZSfF0/MadeInAbyss-BSFD-WindowsNoEditor_1_P.pak?attach=1&knm=tfile.pak" %}
