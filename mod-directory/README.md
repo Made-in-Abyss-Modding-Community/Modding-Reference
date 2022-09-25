@@ -55,3 +55,8 @@ For more information, see [jaajs-music-replacement-v4.1.md](jaajs-music-replacem
 
 Replaces MIA:BFSD music with the OST from the anime.\
 For more information, see [beeps-music-replacement-v0.9.1.md](beeps-music-replacement-v0.9.1.md "mention")
+
+### Veta's Decreased Item Weights
+
+Mod that reduces the weight for several items.\
+For more information, see [vetas-decreased-item-weights.md](vetas-decreased-item-weights.md "mention")
