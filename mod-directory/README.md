@@ -44,8 +44,7 @@ For more information, see [stevelynx-innerwear-replacement-v1.md](stevelynx-inne
 ### Katharseuss' Anime Eyes
 
 Modifies the eye colours available at character creation/mirror.\
-For more information, see [katharsuess-anime-eyes-v0.5.md](katharsuess-anime-eyes-v0.5.md "mention")
-
+test
 ### Jaaj's Music Replacement
 
 Replaces MIA:BFSD music with the OST from the anime.\
