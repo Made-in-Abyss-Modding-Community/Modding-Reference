@@ -52,5 +52,6 @@
   * [Katharsuess' Anime Eyes V0.5](mod-directory/katharsuess-anime-eyes-v0.5.md)
   * [Jaaj's Music Replacement V4.1](mod-directory/jaajs-music-replacement-v4.1.md)
   * [Beep's Music Replacement V0.9.1](mod-directory/beeps-music-replacement-v0.9.1.md)
+  * [Myha's Weapons Durability Rebalance](mod-directory/myhas-weapons-durability-rebalance.md)
   * [VETA (DAHONG)'s Decreased Item Weight v1.2](mod-directory/veta-dahong-s-decreased-item-weight-v1.2.md)
   * [Mod Template](mod-directory/mod-template.md)
