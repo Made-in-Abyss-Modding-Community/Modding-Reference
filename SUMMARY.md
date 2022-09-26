@@ -38,7 +38,7 @@
       * [Item IDs](game-logic/byte-values/ids/item-ids.md)
       * [Map IDs](game-logic/byte-values/ids/map-ids.md)
   * [Other Game Logic](game-logic/other-game-logic.md)
-* [Tutorials](tutorials.md)
+* [Tutorials](tutorials/README.md)
 * [Other Documentation](other-documentation/README.md)
   * [PAK load order](other-documentation/pak-load-order.md)
 * [Mod Directory](mod-directory/README.md)
