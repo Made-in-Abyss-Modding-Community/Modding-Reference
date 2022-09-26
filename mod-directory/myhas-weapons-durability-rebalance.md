@@ -17,9 +17,11 @@ Ranged weapons are also given a small bonus to keep in line with those changes.
 
 #### Compatibility
 
-This mod is not compatible with mods that change items stat or add items, like Watta's Survival Hatchet or Veta's Items Weight mod.
+This mod is not compatible with mods that change items stat or add items, like Watta's Survival Hatchet.
 A patch will need to be made for each of these mods to be compatible with mine.
 
+List of mods with compatibility patch : 
+* VETA (DAHONG)'s Decreased Item Weight v1.2
 
 #### How to Install
 
@@ -33,6 +35,9 @@ A patch will need to be made for each of these mods to be compatible with mine.
 #### Download Link
 
 {% embed url="https://download1980.mediafire.com/50bm1lq4xamg/tr3obzxmutl0vts/MadeInAbyss-BSFD-WindowsNoEditor_WeaponDurabilityRebalance_P.pak" %}
+
+Patch/Merge for Veta's item weight mod (you can find Veta's mod page here https://game-4.tistory.com/22) :
+{% embed url="https://download1335.mediafire.com/ra623unr14dg/ehkaw0niakeb3lj/MadeInAbyss-BSFD-WindowsNoEditor_VetaMyhaWeightDurabilityMerge_P.pak" %}
 
 
 #### Known Bug
