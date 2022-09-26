@@ -56,6 +56,11 @@ For more information, see [jaajs-music-replacement-v4.1.md](jaajs-music-replacem
 Replaces MIA:BFSD music with the OST from the anime.\
 For more information, see [beeps-music-replacement-v0.9.1.md](beeps-music-replacement-v0.9.1.md "mention")
 
+### Myha's Weapons Durability Rebalance
+
+Increases weapons durability based on their rank.\
+For more information, see [myhas-weapons-durability-rebalance.md](myhas-weapons-durability-rebalance.md "mention")
+
 ### VETA (DAHONG)'s Decreased Item Weight v1.2
 
 다람쥐 탐굴가들을 위한 무기, 의상, 기타 아이템 무게 감소 모드 입니다.\
