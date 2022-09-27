@@ -21,7 +21,7 @@ This mod is not compatible with mods that change items stat or add items, like W
 A patch will need to be made for each of these mods to be compatible with mine.
 
 List of mods with compatibility patch : 
-* VETA (DAHONG)'s Decreased Item Weight v1.2
+* VETA (DAHONG)'s Decreased Item Weight v1.5
 
 #### How to Install
 
@@ -31,6 +31,8 @@ List of mods with compatibility patch :
 * Make sure the file's name is **MadeInAbyss-BSFD-WindowsNoEditor\_\<Anything>\_P**.pak; with **\<Anything>** being a number, a name or whatever.
 * You're done!
 
+Compatibility patch :
+* VETA (DAHONG)'s Decreased Item Weight : Remove Veta's mod or mine if they are installed, install the merge patch instead.
 
 #### Download Link
 
