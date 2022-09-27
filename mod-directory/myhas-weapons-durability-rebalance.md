@@ -39,7 +39,7 @@ Compatibility patch :
 {% embed url="https://download1980.mediafire.com/50bm1lq4xamg/tr3obzxmutl0vts/MadeInAbyss-BSFD-WindowsNoEditor_WeaponDurabilityRebalance_P.pak" %}
 
 Patch/Merge for Veta's item weight mod (you can find Veta's mod page here https://game-4.tistory.com/22) :
-{% embed url="https://download1335.mediafire.com/ra623unr14dg/ehkaw0niakeb3lj/MadeInAbyss-BSFD-WindowsNoEditor_VetaMyhaWeightDurabilityMerge_P.pak" %}
+{% embed url="https://download943.mediafire.com/dtuglq6rpcug/ehkaw0niakeb3lj/MadeInAbyss-BSFD-WindowsNoEditor_VetaMyhaWeightDurabilityMerge_P.pak" %}
 
 
 #### Known Bug
