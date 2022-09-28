@@ -17,11 +17,12 @@ Ranged weapons are also given a small bonus to keep in line with those changes.
 
 #### Compatibility
 
-This mod is not compatible with mods that change items stat or add items, like Watta's Survival Hatchet.
+This mod is not compatible with mods that change items stat or add items.
 A patch will need to be made for each of these mods to be compatible with mine.
 
 List of mods with compatibility patch : 
 * VETA (DAHONG)'s Decreased Item Weight v1.5
+* Watta's Survival Hatchet
 
 #### How to Install
 
@@ -33,7 +34,7 @@ List of mods with compatibility patch :
 
 Compatibility patch :
 * VETA (DAHONG)'s Decreased Item Weight : Remove Veta's mod or mine if they are installed, install the merge patch instead.
-
+* Watta's Survival Hatchet : Name Watta's mod "MadeInAbyss-BSFD-WindowsNoEditor_n_P.pak" and name the patch "MadeInAbyss-BSFD-WindowsNoEditor_n+x_P.pak". So if watta's mod is "MadeInAbyss-BSFD-WindowsNoEditor_77_P.pak" the patch could be "MadeInAbyss-BSFD-WindowsNoEditor_78_P.pak" or any number above 77.
 #### Download Link
 
 {% embed url="https://download1980.mediafire.com/50bm1lq4xamg/tr3obzxmutl0vts/MadeInAbyss-BSFD-WindowsNoEditor_WeaponDurabilityRebalance_P.pak" %}
@@ -41,6 +42,10 @@ Compatibility patch :
 Patch/Merge for Veta's item weight mod (you can find Veta's mod page here https://game-4.tistory.com/22) :
 {% embed url="https://download943.mediafire.com/dtuglq6rpcug/ehkaw0niakeb3lj/MadeInAbyss-BSFD-WindowsNoEditor_VetaMyhaWeightDurabilityMerge_P.pak" %}
 
+Patch for Watta's Survival Hatchet :
+{% embed url="https://download1348.mediafire.com/cp3cx127xyhg/lw65neeql6hivak/MadeInAbyss-BSFD-WindowsNoEditor_78Durab_P.pak" %}
+If you are also using Veta's item weight merge :
+{% embed url="https://www.mediafire.com/file/vvwid8zqvo5oehi/MadeInAbyss-BSFD-WindowsNoEditor_78WeightDurab_P.pak/file" %}
 
 #### Known Bug
 
