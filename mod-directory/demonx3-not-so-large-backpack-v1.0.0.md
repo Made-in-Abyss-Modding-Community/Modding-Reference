@@ -4,7 +4,7 @@ Short Description: >-
   This is a purely visual change.
 ---
 
-# Not So Large Backpack by DemonX3
+# DemonX3's Not So Large Backpack
 
 Is your delver tired after carrying that real estate of a bag on their back, or are you tired of not seeing them because of it? With this mod your comically large backpack will stay as convenient as a medium-sized one.&#x20;
 
