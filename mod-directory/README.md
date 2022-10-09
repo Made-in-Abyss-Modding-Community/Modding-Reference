@@ -66,3 +66,8 @@ For more information, see [myhas-weapons-durability-rebalance.md](myhas-weapons-
 다람쥐 탐굴가들을 위한 무기, 의상, 기타 아이템 무게 감소 모드 입니다.\
 This is a weight reduction mod for weapons, clothing, and other items\
 For more information, see [veta-dahong-s-decreased-item-weight-v1.2.md](veta-dahong-s-decreased-item-weight-v1.2.md "mention")
+
+### DemonX3's Not So Large Backpack
+
+This mod replaces humongous White Whistle backpack with a medium-sized one. This is a purely visual change.\
+For more information, see [demonx3-not-so-large-backpack-v1.0.0.md](demonx3-not-so-large-backpack-v1.0.0.md "mention")
