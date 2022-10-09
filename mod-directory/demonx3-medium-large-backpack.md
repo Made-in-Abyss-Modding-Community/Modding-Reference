@@ -1,5 +1,5 @@
 ---
-description: >-
+Short Description: >-
   This mod replaces humongous White Whistle backpack with a medium-sized one.
   This is a purely visual change.
 ---
