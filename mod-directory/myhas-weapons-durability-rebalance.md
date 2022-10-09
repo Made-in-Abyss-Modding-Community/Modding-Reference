@@ -43,9 +43,9 @@ Patch/Merge for Veta's item weight mod (you can find Veta's mod page here https:
 {% embed url="https://download943.mediafire.com/dtuglq6rpcug/ehkaw0niakeb3lj/MadeInAbyss-BSFD-WindowsNoEditor_VetaMyhaWeightDurabilityMerge_P.pak" %}
 
 Patch for Watta's Survival Hatchet :
-{% embed url="https://download1348.mediafire.com/cp3cx127xyhg/lw65neeql6hivak/MadeInAbyss-BSFD-WindowsNoEditor_78Durab_P.pak" %}
+{% embed url="https://download1338.mediafire.com/u648rk5xhifg/lw65neeql6hivak/MadeInAbyss-BSFD-WindowsNoEditor_78Durab_P.pak" %}
 If you are also using Veta's item weight merge :
-{% embed url="https://www.mediafire.com/file/vvwid8zqvo5oehi/MadeInAbyss-BSFD-WindowsNoEditor_78WeightDurab_P.pak/file" %}
+{% embed url="https://download1654.mediafire.com/z8jxuyj9udqg/vvwid8zqvo5oehi/MadeInAbyss-BSFD-WindowsNoEditor_78WeightDurab_P.pak" %}
 
 #### Known Bug
 
