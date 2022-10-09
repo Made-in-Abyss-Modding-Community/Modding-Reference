@@ -18,3 +18,7 @@ Is your delver tired after carrying that real estate of a bag on their back, or 
 #### Download Link
 
 https://mega.nz/file/WQI3mLjY#1ZchWFrouCz4dAPLbePYyrzsMoCYhnJaebUwWuTSY4o
+
+#### Screenshots
+
+<figure><img src="https://media.discordapp.net/attachments/563341228977029120/1028748444262740109/Screen1.png" alt=""></figure>
