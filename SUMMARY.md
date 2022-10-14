@@ -56,4 +56,5 @@
   * [Myha's Weapons Durability Rebalance](mod-directory/myhas-weapons-durability-rebalance.md)
   * [VETA (DAHONG)'s Decreased Item Weight v1.2](mod-directory/veta-dahong-s-decreased-item-weight-v1.2.md)
   * [DemonX3's Not So Large Backpack](mod-directory/demonx3-not-so-large-backpack-v1.0.0.md)
+  * [1XanXus0's Companion repeated voice reduction Mod V0.8](mod-directory/1XanXus0's-Companion-repeated-voice-reduction-v0.8.md)
   * [Mod Template](mod-directory/mod-template.md)
