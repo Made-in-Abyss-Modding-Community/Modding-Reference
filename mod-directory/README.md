@@ -71,3 +71,8 @@ For more information, see [veta-dahong-s-decreased-item-weight-v1.2.md](veta-dah
 
 This mod replaces humongous White Whistle backpack with a medium-sized one. This is a purely visual change.\
 For more information, see [demonx3-not-so-large-backpack-v1.0.0.md](demonx3-not-so-large-backpack-v1.0.0.md "mention")
+
+### 1XanXus0's Companion repeated voice reduction Mod V0.8
+
+This Mod Limits the voice interaction from the companion with you to the bare minimum for each Map\
+For more information, see [1XanXus0's-Companion-repeated-voice-reduction-v0.8.md](1XanXus0's-Companion-repeated-voice-reduction-v0.8.md "mention")
