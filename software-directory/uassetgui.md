@@ -1,5 +1,7 @@
 # UAssetGUI
 
+UAssetGUI is used to edit .uasset and .umap files, we usually only focus on .uasset. Below is a step by step tutorial on how to functionally use this program to edit the game files.
+
 **How To Use, Step By Step:**
 
 **1) When you open UAssetGUI you will be greeted with this window:**
