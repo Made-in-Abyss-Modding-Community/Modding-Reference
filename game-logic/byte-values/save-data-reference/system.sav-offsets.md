@@ -11,15 +11,22 @@
 
 #### **0x474 - Brightness**
 
-\-
+_(values from 0 to 100, converted to base16)_
+
+`00` = dark\
+`32` = medium\
+`64` = bright
 
 #### 0x475 - Text Language
 
-\-
+`00` = english\
+`01` = japanese\
+`02` = chinese
 
 #### 0x476 - Voice Language
 
-\-
+`00` = english\
+`01` = japanese
 
 #### 0x477 - Confirmation Skip
 
@@ -28,7 +35,9 @@
 
 #### 0x47b - Text Speed
 
-\-
+`00` = slow\
+`01` = normal\
+`02` = fast
 
 #### 0x488 - Minimap Fixed
 
@@ -47,11 +56,19 @@
 
 #### 0x494 - Camera, Y Sensitivity
 
-\-
+_(values from 0 to 100, converted to base16)_
+
+`00` = slow\
+`32` = medium\
+`64` = fast
 
 #### 0x495 - Camera, X Sensitivity
 
-\-
+_(values from 0 to 100, converted to base16)_
+
+`00` = slow\
+`32` = medium\
+`64` = fast
 
 #### 0x496 - Controller Vibration
 
@@ -100,7 +117,11 @@ _(values from 0 to 100, converted to base16)_
 
 #### **0x4b1 - Mouse Sensitivity**
 
-\-
+_(values from 0 to 100, converted to base16)_
+
+`00` = slow\
+`32` = medium\
+`64` = fast
 
 #### 0x49f - Screen Mode
 
@@ -120,8 +141,8 @@ _(values from 0 to 100, converted to base16)_
 _(values from 0 to 4, lower value is lowest quality)_
 
 `00` = Low\
-`01` = \
-`02` = \
+`01` = Medium\
+`02` = High\
 `03` = Epic\
 `04` = Cinematic&#x20;
 
@@ -130,8 +151,8 @@ _(values from 0 to 4, lower value is lowest quality)_
 _(values from 0 to 4, lower value is lowest quality)_
 
 `00` = Low\
-`01` = \
-`02` = \
+`01` = Medium\
+`02` = High\
 `03` = Epic\
 `04` = Cinematic&#x20;
 
@@ -140,8 +161,8 @@ _(values from 0 to 4, lower value is lowest quality)_
 _(values from 0 to 4, lower value is lowest quality)_
 
 `00` = Low\
-`01` = \
-`02` = \
+`01` = Medium\
+`02` = High\
 `03` = Epic\
 `04` = Cinematic&#x20;
 
@@ -150,8 +171,8 @@ _(values from 0 to 4, lower value is lowest quality)_
 _(values from 0 to 4, lower value is lowest quality)_
 
 `00` = Low\
-`01` = \
-`02` = \
+`01` = Medium\
+`02` = High\
 `03` = Epic\
 `04` = Cinematic&#x20;
 
@@ -160,8 +181,8 @@ _(values from 0 to 4, lower value is lowest quality)_
 _(values from 0 to 4, lower value is lowest quality)_
 
 `00` = Low\
-`01` = \
-`02` = \
+`01` = Medium\
+`02` = High\
 `03` = Epic\
 `04` = Cinematic&#x20;
 
@@ -170,8 +191,8 @@ _(values from 0 to 4, lower value is lowest quality)_
 _(values from 0 to 4, lower value is lowest quality)_
 
 `00` = Low\
-`01` = \
-`02` = \
+`01` = Meidum\
+`02` = High\
 `03` = Epic\
 `04` = Cinematic&#x20;
 
@@ -180,8 +201,8 @@ _(values from 0 to 4, lower value is lowest quality)_
 _(values from 0 to 4, lower value is lowest quality)_
 
 `00` = Low\
-`01` = \
-`02` = \
+`01` = Medium\
+`02` = High\
 `03` = Epic\
 `04` = Cinematic&#x20;
 
@@ -190,7 +211,7 @@ _(values from 0 to 4, lower value is lowest quality)_
 _(values from 0 to 4, lower value is lowest quality)_
 
 `00` = Low\
-`01` = \
-`02` = \
+`01` = Medium\
+`02` = High\
 `03` = Epic\
 `04` = Cinematic&#x20;
