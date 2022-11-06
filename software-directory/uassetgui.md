@@ -12,7 +12,7 @@ It looks pretty plain, but we will change that soon.
 
 ![image](https://user-images.githubusercontent.com/113730560/200188224-3c0e0100-6c94-4602-a1b1-871dc8b7dee8.png)
 
-**3) Next, click the dropdown labeled "file" at the top left corner and select the "open" option. You will then want to select any .uasset file you wish to edit from extracted .PAK files within this file select window, then click "open".**
+**3) Next, click the dropdown labeled "file" at the top left corner and select the "open" option. You will then want to select any .uasset file you wish to edit from extracted .PAK files within this file select window, then click "open". (DISCLAIMER! OPENING A FILE IN UASSETGUI WILL CREATE A BACKUP OF THE FILE, DELETE IT IF YOU WISH!)**
 
 ![image](https://user-images.githubusercontent.com/113730560/200188451-c58ef9df-adeb-4eb9-8edd-023e0943416f.png)
 
