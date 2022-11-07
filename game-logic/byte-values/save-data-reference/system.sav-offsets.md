@@ -191,7 +191,7 @@ _(values from 0 to 4, lower value is lowest quality)_
 _(values from 0 to 4, lower value is lowest quality)_
 
 `00` = Low\
-`01` = Meidum\
+`01` = Medium\
 `02` = High\
 `03` = Epic\
 `04` = Cinematic&#x20;
