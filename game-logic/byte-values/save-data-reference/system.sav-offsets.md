@@ -125,11 +125,30 @@ _(values from 0 to 100, converted to base16)_
 
 #### 0x49f - Screen Mode
 
-\-
+`00` = Fullscreen\
+`01` = Borderless\
+`02` = Windowed
 
-#### 0x4a2 - Resoluton
+#### 0x4a0 - Resoluton Width
 
-\-
+_(values in Single(float32), Only specific combinations from game settings are working - use values from same numbers)_
+
+`800` - 1\
+`1024` - 2\
+`1280` - 3\
+`1440` - 4\
+`1600` - 5\
+`1920` - 6
+
+#### 0x4a4 - Resoluton Height
+
+_(values in Single(float32), Only specific combinations from game settings are working - use values from same numbers)_
+
+`600` - 1\
+`768` - 2\
+`800` - 3\
+`900` - 4, 5\
+`1080` - 6
 
 #### 0x4a8 - V-Sync
 
