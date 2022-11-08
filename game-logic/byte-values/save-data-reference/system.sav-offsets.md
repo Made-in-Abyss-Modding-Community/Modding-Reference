@@ -129,7 +129,7 @@ _(values from 0 to 100, converted to base16)_
 `01` = Borderless\
 `02` = Windowed
 
-#### 0x4a0 - Resoluton Width
+#### 0x4a0 - Resolution Width
 
 _(values in Single(float32), Only specific combinations from game settings are working - use values from same numbers)_
 
@@ -140,7 +140,7 @@ _(values in Single(float32), Only specific combinations from game settings are w
 `1600` - 5\
 `1920` - 6
 
-#### 0x4a4 - Resoluton Height
+#### 0x4a4 - Resolution Height
 
 _(values in Single(float32), Only specific combinations from game settings are working - use values from same numbers)_
 
