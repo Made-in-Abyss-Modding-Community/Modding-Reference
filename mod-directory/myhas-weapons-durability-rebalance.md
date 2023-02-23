@@ -1,18 +1,18 @@
 ---
-description: Increases weapons durability based on their rank.
+description: Increases item durability based on their rank.
 ---
 
-# Myha's Weapons Durability Rebalance 
+# Myha's Durability Rebalance 
 
 Are you frustrated that your new hatchet made of rare abyss material breaks as fast as your pocket knife for scout camp ?
 Afraid of using your shiny pickaxe crafted with mystical deep abyss relics because it will fall apart before you reach the 4rth layer ?
 Then you're in the right place !
 
-This mod increases the durability of hatchets and pickaxes based on their whistle rank. Weapons have a +15% durability increase for each whistle rank above red :
+This mod increases the durability of items based on their whistle rank. Weapons have a +15% durability increase for each whistle rank above red :
 Red whistle weapons are the base, blue whistle get +15%, moon whistle +30%, black whistle +45% and white whistle +60%.
 Relic weapons have twice the bonus of their whistle rank : normal relic get +60%, high relic +90%, special relic +120%.
 
-Ranged weapons are also given a small bonus to keep in line with those changes.
+Ranged weapons and even fishing rods are also given a small bonus to keep in line with those changes.
 
 
 #### Compatibility
@@ -20,7 +20,7 @@ Ranged weapons are also given a small bonus to keep in line with those changes.
 This mod is not compatible with mods that change items stat or add items.
 A patch will need to be made for each of these mods to be compatible with mine.
 
-List of mods with compatibility patch : 
+List of mods with compatibility patch : !!! NOT UPDATED FOR 1.0.3(game)/1.1(mod) !!!
 * VETA (DAHONG)'s Decreased Item Weight v1.5
 * Watta's Survival Hatchet
 
@@ -46,6 +46,9 @@ Patch for Watta's Survival Hatchet :
 {% embed url="https://download1338.mediafire.com/u648rk5xhifg/lw65neeql6hivak/MadeInAbyss-BSFD-WindowsNoEditor_78Durab_P.pak" %}
 If you are also using Veta's item weight merge :
 {% embed url="https://download1654.mediafire.com/z8jxuyj9udqg/vvwid8zqvo5oehi/MadeInAbyss-BSFD-WindowsNoEditor_78WeightDurab_P.pak" %}
+
+#### Changelog
+* 1.1 : updated for game version 1.0.3, more durability increase for relic ranged weapons, +50% durabilty to fishing rods, Umbrella got "nicer" durabilty too
 
 #### Known Bug
 
